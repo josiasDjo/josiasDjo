@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Josias</h1>
 <h3 align="center">A passionate frontend developer from DR Congo</h3>
 
-- 🔭 I’m currently working on [video Watch](https://github.com/josiasDjo/youtube.git)
+- 🔭 I’m currently working on [SkillCongo](https://github.com/josiasDjo/skillCongo.git)
 
 - 🌱 I’m currently learning **Angular Js, JavaScript, Flutter, NodeJs**
 
-- 🤝 I’m looking for help with [video Watch](https://github.com/josiasDjo/youtube.git)
+- 👯 I’m looking to collaborate on [SkillCongo](https://github.com/josiasDjo/skillCongo.git)
+
+- 🤝 I’m looking for help with [SkillCongo](https://github.com/josiasDjo/skillCongo.git)
 
 - 💬 Ask me about **Python, Flutter**
 
