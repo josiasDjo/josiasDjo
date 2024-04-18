@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Smart Watch website](https://github.com/josiasDjo/smartWatch.git)
 
-- 🌱 I’m currently learning **Angular Js, JavaScript, Flutter, NodeJs**
+- 🌱 I’m currently learning **Angular Js, JavaScript, php, Flutter, NodeJs**
 
 - 👯 I’m looking to collaborate on [SkillCongo](https://github.com/josiasDjo/skillCongo.git)
 
