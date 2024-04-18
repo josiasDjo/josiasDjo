@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josias</h1>
 <h3 align="center">A passionate frontend developer from DR Congo</h3>
 
-- 🔭 I’m currently working on [SkillCongo](https://github.com/josiasDjo/skillCongo.git)
+- 🔭 I’m currently working on [Smart Watch website](https://github.com/josiasDjo/smartWatch.git)
 
 - 🌱 I’m currently learning **Angular Js, JavaScript, Flutter, NodeJs**
 
