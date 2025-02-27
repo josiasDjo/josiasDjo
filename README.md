@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Josias</h1>
-<h3 align="center">A passionate frontend developer from DR Congo</h3>
+<h3 align="center">A passionate Web Developer from DR Congo</h3>
 
 - 🔭 I’m currently working on [Smart Watch website](https://github.com/josiasDjo/smartWatch.git)
 
-- 🌱 I’m currently learning **Angular Js, JavaScript, php, Flutter, NodeJs**
+- 🌱 I’m currently learning **TypeScript, JavaScript, php, SQL, NodeJs**
 
-- 👯 I’m looking to collaborate on [SkillCongo](https://github.com/josiasDjo/skillCongo.git)
+- 👯 I’m looking to collaborate on [Fertilia](https://github.com/josiasDjo/Fertilia.git)
 
-- 🤝 I’m looking for help with [SkillCongo](https://github.com/josiasDjo/skillCongo.git)
+- 🤝 I’m looking for help with [SkillCongo](https://github.com/josiasDjo/Fertilia.git)
 
-- 💬 Ask me about **Python, Flutter**
+- 💬 Ask me about **NODEJS, PHP, MySQL**
 
 - 📫 How to reach me **djodev23@gmail.com**
 
