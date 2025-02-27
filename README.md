@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **NODEJS, PHP, MySQL**
 
-- 📫 How to reach me **djodev23@gmail.com**
+- 📫 How to reach me **djodev23@gmail.com**, **besodiakabambi@gmail.com**
 
 - ⚡ Fun fact **i think i am a funny**
 
